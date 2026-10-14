@@ -1,5 +1,4 @@
 # Análise de Vendas com Python 📊
-[![Open In Colab](https://google.com)](https://google.com)
 Este projeto realiza uma análise exploratória completa de um histórico de vendas armazenado em formato CSV, focado em identificar insights comerciais e padrões de faturamento. Desenvolvido e executado inteiramente no ambiente do Google Colab.
 
 ## 🛠️ Tecnologias Utilizadas
